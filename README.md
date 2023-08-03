@@ -6,6 +6,13 @@
   <li>Copy Constructor</li>
 </ol>
 
+# PACKAGE
+**Types of Package:-** <br>
+<ol>
+  <li><b>Built-in Package</b>(such as java.util)</li>
+  <li><b>User Defined Package</b></li>
+</ol>
+
 # POLYMORPHISM
 **Displaying up of message in more than one form.** <br>
 **Types of Polymorphism:-** <br>
