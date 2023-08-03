@@ -7,6 +7,7 @@
 </ol>
 
 # PACKAGE
+Packages are used to organize and group related classes and interfaces together. 
 **Types of Package:-** <br>
 <ol>
   <li><b>Built-in Package</b>(such as java.util)</li>
