@@ -13,3 +13,17 @@
   <li><b>Compile Time Polymorphism (Function Overloading):-</b> Either ReturnType or ParameterType should be different.(here print function is overloaded).</li>
   <li>Run Time Polymorphism (Funtion Overridding)</li>
 </ol>
+
+# INHERITANCE
+**Passing properties of one class to another.** Interitance increases reusability of code. <br>
+**Types of Inheritance:-** <br>
+<ol>
+  <li>Single Level Inheritance</li>
+  <li>Multi Level Inheritance</li>
+  <li>Hybrid Inheritance</li>
+  <li>Hierarchial Inheritance</li>
+</ol>
+
+# ABSTRACTION
+
+# ENCAPSULATION
