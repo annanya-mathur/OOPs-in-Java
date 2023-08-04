@@ -35,3 +35,17 @@ Packages are used to organize and group related classes and interfaces together.
 # ABSTRACTION
 
 # ENCAPSULATION
+
+# COLLECTION FRAMEWORK
+**Methods on collection framework:-**
+<ol>
+  <li>
+  add
+</li>
+  <li>size</li>
+  <li>remove</li>
+  <li>iterate</li>
+  <li>addAll</li>
+  <li>removeAll</li>
+  <li>clear</li>
+</ol>
